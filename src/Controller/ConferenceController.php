@@ -27,11 +27,6 @@ class ConferenceController extends AbstractController
     }
     
     
-    
-    
-    
-    
-    
     /**
      * @Route("/", name="homepage")
      * @param Environment $twig
